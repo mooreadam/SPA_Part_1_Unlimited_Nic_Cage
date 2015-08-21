@@ -1,0 +1,47 @@
+header{
+	margin-top:1em;
+	text-align:center;
+}
+
+.jumbotron{
+
+	padding-bottom: 3.4em;
+	background-color: #ff0044;
+}
+
+.border{
+	
+	margin-top:15px;
+}
+
+.btn{
+
+	margin-bottom: 1em;
+
+	background-color: #ffeeee;
+	border-color:#ff0044;
+
+
+}
+
+
+a:hover {
+   background-color: #ff0044;
+   padding:13px;
+  }
+
+img:hover{
+
+-webkit-transform: rotate(90deg) skew(3deg) ;
+-moz-transform: rotate(90deg);  /* FF3.5+ */
+-o-transform: rotate(90deg); 
+
+
+	   background-color: #ff0044;
+}
+
+footer{
+
+	margin-top:55em;
+	text-align: center;
+}
